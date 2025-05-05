@@ -1,3 +1,6 @@
+<img src="Github.png" alt="Description of image" >
+
+
 <h1 align="center">Hello👋, I'm Anjali Sharma</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
