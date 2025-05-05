@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **anjaliisharma1803@gmail.com**
 
-- ⚡ Fun fact **Waffles, Wi-Fi, wisdom, whoa**
+- ⚡ Fun fact **Coffee-powered knowledge machine**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
